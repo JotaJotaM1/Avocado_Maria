@@ -1,4 +1,4 @@
-{
+{"homepage": "https://github.com/JotaJotaM1/Avocado_Maria.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
